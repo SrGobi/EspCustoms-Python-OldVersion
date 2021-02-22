@@ -1,0 +1,33 @@
+{
+    "email": "",
+    "password":  "",
+    "token" : "",
+    "description": "Discord: Esp Customs!",
+
+    "estado": "ESP CUSTOMS",
+    "plataforma": "WIN",
+    "nivel_pase": "999",
+
+
+    "skin_id": "CID_386_Athena_Commando_M_StreetOpsStealth",
+    "mochila_id": "",
+    "emote": true,
+    "emote_id": "EID_secrethandshake",
+    "emote_duración": 5,
+    "emote_abandonar": true,
+    "emote_abandonar_id": "EID_fireworks_wkx2w",
+    "escudo": "OT11Banner",
+    "escudo_color": "defaultcolor40",
+    "kairos_avatar_id": "CID_386_Athena_Commando_M_StreetOpsStealth",
+    "kairos_avatar_fondo": ["#A200FF","#5776DC","#00FFB4"],
+
+    "prefijo": "!",
+    "msg_unirse": "Este bot ha sido creado por SrGobi. Bot oficial de Esp Customs",
+    "msg_abandonar": "Nos vemos ;)",
+    "aceptaramigos": true,
+    "unirseinvitaciones": true,
+    "todos_admins": false,
+    "admins": [
+        ""
+    ]
+}

@@ -1,0 +1,8 @@
+aiohttp
+aioxmpp>=0.10.4
+aioconsole>=0.1.15
+discord.py
+colorama
+fortnitepy
+requests
+pillow
