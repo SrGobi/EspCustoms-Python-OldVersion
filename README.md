@@ -1,10 +1,9 @@
 # ESP CUSTOMS
 
 [![Python Versions](https://img.shields.io/badge/python-3.6-blue)]
-![Discord](https://discordapp.com/api/guilds/597084607447564319/widget.png?style=banner2)
 
 ## Discord Support
-<a href="https://discord.gg/cqrN3Eg"><img src="https://i.imgur.com/PrB8qZb.png"></a>
+![Discord](https://discordapp.com/api/guilds/597084607447564319/widget.png?style=banner2)
 
 Un simple bot de sala para Fortnite escrito en Python especializado en los modos de juego del Battle Royale.
 
