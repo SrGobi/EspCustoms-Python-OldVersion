@@ -1,13 +1,13 @@
 # ESP CUSTOMS
+Un simple bot de sala para Fortnite escrito en Python especializado en los modos de juego del Battle Royale.
+
+Modifique el codigo de device_auths.json segun su identificacion de sobre la cuenta del bot. (Este archivo se crea solo pero dejo el ejemplo para los que no tengais idea de lo que tiene)
 
 [![Python Versions](https://img.shields.io/badge/python-3.6-blue)]
 
 ## Discord Support
 ![Discord](https://discordapp.com/api/guilds/597084607447564319/widget.png?style=banner2)
 
-Un simple bot de sala para Fortnite escrito en Python especializado en los modos de juego del Battle Royale.
-
-Modifique el codigo de device_auths.json segun su identificacion de sobre la cuenta del bot. (Este archivo se crea solo pero dejo el ejemplo para los que no tengais idea de lo que tiene)
 
 [website]: https://esp-customs.herokuapp.com
 [twitter]: https://twitter.com/SrgobiY
@@ -25,6 +25,9 @@ Modifique el codigo de device_auths.json segun su identificacion de sobre la cue
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/mdi:patreon.svg?color=%2300fef4&height=32" />][patreon]
 [<img align="left" alt="Instagram" width="32px" src="https://api.iconify.design/mdi:instagram.svg?color=%2300fef4&height=32" />][instagram]
 
+<br /><br />
+
+---
 ## Config Documentation
 ```
 "email": "",                                                - El correo electrónico de las cuentas de bot.
